@@ -9,9 +9,9 @@ The portfolio page contains 6 images. These images are just placeholders for now
 
 ## Links
 ### GitHub Repo
-
+https://github.com/crizk-crizk/MyPortfolio
 ### Live Link
-
+https://crizk-crizk.github.io/MyPortfolio/
 ## Screenshots 
 ![Homepage](Screenshots/index.png)
 
