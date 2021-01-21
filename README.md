@@ -15,6 +15,4 @@ https://crizk-crizk.github.io/MyPortfolio/
 ## Screenshots 
 ![Homepage](Screenshots/index.png)
 
-![Contact](Screenshots/contact.png)
-
 ![Portfolio](Screenshots/portfolio.png)
