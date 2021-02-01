@@ -8,6 +8,13 @@
   border-radius: 3px;
 }
 
+.recThumbnails {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
 a:any-link {
     text-decoration: none;
     color: rgb(12, 12, 12);
@@ -17,3 +24,15 @@ a:any-link {
 a:hover {
     color: #1a5fba;
 }
+
+.contactTitle {
+  margin: 0 auto;
+}
+
+.contactTopBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
