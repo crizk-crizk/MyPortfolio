@@ -2,6 +2,27 @@
   box-sizing: border-box;
 }
 
+.home h2 {
+  font-size: 3rem;
+  color: rgb(240, 230, 230);
+}
+
+.home h1 {
+  font-size: 4rem;
+  color: rgb(240, 230, 230);
+  margin: 2rem 0;
+  text-shadow: 0.1rem 0.1rem 0.1rem rgba(255, 255, 255, 0.9);
+}
+
+.home h1 span {
+  color: #338e90;
+  margin: 0;
+}
+
+.profile-card {
+  margin-left: 10%;
+}
+
 .linkedinAndEmail {
   padding-left: 10px;
   background-color: white;
