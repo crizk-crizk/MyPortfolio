@@ -57,3 +57,41 @@ a:hover {
   justify-content: center;
 }
 
+.icon {
+  font-size: 100px;
+}
+
+.icon-div {
+  margin-bottom:30px;
+  margin-top: 30px;
+  text-align: right;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .icon-div {
+    margin-bottom:30px;
+    margin-top: 30px;
+    text-align: center;
+  }
+  }
+
+  .resume-title {
+    padding-top: 20px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+.card-about {
+  content-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.about-list {
+  list-style-type: none;
+}
+
+.resume {
+  text-decoration: none;
+  text-align: center;
+}
