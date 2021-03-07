@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+body {
+  background-image: url(images/leavesBackground.jpg);
+}
+
 .home h2 {
   font-size: 3rem;
   color: rgb(240, 230, 230);
