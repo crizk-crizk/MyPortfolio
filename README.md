@@ -1,18 +1,10 @@
 # Responsive Portfolio - Bootstrap
 
 ## Description
-
-This is my responsive portofolio created using Bootstrap. It has three pages; a home, a contact, and a portfolio page. 
-The homepage contains two cards. In one card, my headshot and a brief description about me in the other card. 
-The contact page contains my home address, email address link, and a contact form. 
-The portfolio page contains 6 images. These images are just placeholders for now and not my own photographs.
+Hello! I created this reponsive portfolio using Bootstrap. Within, you can find my contact information and thumbnails of projects I have done. Clicking on the thumbnail will redirect you to view each project separately. 
 
 ## Links
-### GitHub Repo
-https://github.com/crizk-crizk/MyPortfolio
+### My GitHub
+https://github.com/crizk-crizk
 ### Live Link
 https://crizk-crizk.github.io/MyPortfolio/
-## Screenshots 
-![Homepage](Screenshots/index.png)
-
-![Portfolio](Screenshots/my-works.png)
