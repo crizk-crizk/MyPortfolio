@@ -3,23 +3,31 @@
 }
 
 body {
+  width: 100%; 
+  height: 100%;  
   background-image: url(images/leavesBackground.jpg);
+  background-blend-mode: luminosity;
+  backdrop-filter: blur(2px);
 }
 
 .home h2 {
-  font-size: 3rem;
+  font-size: 7rem;
+  text-align: justify;
+  margin-left: 50px;
   color: rgb(240, 230, 230);
+  text-shadow: 0.1rem 0.1rem 0.1rem #e458e6;
 }
 
 .home h1 {
-  font-size: 4rem;
+  font-size: 4.3rem;
+  margin-left: 50px;
   color: rgb(240, 230, 230);
-  margin: 2rem 0;
-  text-shadow: 0.1rem 0.1rem 0.1rem rgba(255, 255, 255, 0.9);
+  /* margin: 2rem 0; */
+  text-shadow: 0.1rem 0.1rem 0.1rem rgb(240, 230, 230);
 }
 
 .home h1 span {
-  color: #338e90;
+  color: #e458e6;
   margin: 0;
 }
 
@@ -62,7 +70,9 @@ a:hover {
 }
 
 .icon {
-  font-size: 100px;
+  color: rgb(240, 230, 230);
+  font-size: 120px;
+  text-shadow: 0.1rem 0.1rem 0.1rem #e458e6;
 }
 
 .icon-div {
